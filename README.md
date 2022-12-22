@@ -7,6 +7,6 @@ However, you will need to update it with your personal API.
 
 APIs used:
   Coin Ranking
-  Twelve Data
+   & Twelve Data
 
 Thank you!
